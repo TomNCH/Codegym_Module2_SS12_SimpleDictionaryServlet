@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimpleDictionaryServlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleDictionaryServlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SimpleDictionaryServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimpleDictionaryServlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
